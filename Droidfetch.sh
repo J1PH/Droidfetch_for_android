@@ -1,6 +1,5 @@
 #bin/sh
 # Based in Neofetch and Screenfetch for GNU/Linux
-cat ./ascii/distro/lubuntu
 echo " $(whoami)@$(hostname)"
 echo "--------------------------------------------"
 echo " OS: Android $( uname -m)"
